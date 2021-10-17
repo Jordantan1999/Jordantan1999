@@ -11,13 +11,11 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **Jordanjun@yahoo.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/tan-jun-wen-4a105b162/](https://www.linkedin.com/in/tan-jun-wen-4a105b162/)
-
 - ⚡ Fun fact **I am the latest 90s kid**
 
 <h3 align="left">Connect with me:</h3>
+<a href = "https://www.linkedin.com/in/tan-jun-wen-4a105b162/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <p align="left">
 <a href="https://codepen.io/jordan-tan-jun-wen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jordan-tan-jun-wen" height="30" width="40" /></a>
 <a href="https://twitter.com/jordantanjunwen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jordantanjunwen" height="30" width="40" /></a>
