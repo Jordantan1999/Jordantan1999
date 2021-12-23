@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordantan1999&label=Profile%20views&color=0e75b6&style=flat" alt="jordantan1999" /> </p>
 
-- 🔭 I’m currently working on [Event-Driven Industry](https://github.com/Jordantan1999/blockchain)
+- 🔭 I’m currently working on [Event-Driven Industry](https://gitee.com/jordantanjunwen/Open_Banking.git)
 
 - 🌱 I’m currently learning **Java Spring Framework**
 
