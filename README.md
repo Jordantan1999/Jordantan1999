@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Jun Wen</h1>
-<h3 align="center">A passionate Software Engineer from Malaysia</h3>
+<h3 align="center">A passionate Software Engineer who loves Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordantan1999&label=Profile%20views&color=0e75b6&style=flat" alt="jordantan1999" /> </p>
 
