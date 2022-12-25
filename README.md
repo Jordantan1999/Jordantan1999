@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordantan1999&label=Profile%20views&color=0e75b6&style=flat" alt="jordantan1999" /> </p>
 
-- 🔭 I’m currently working on [whyline4java] (https://github.com/Jordantan1999/whyline4java)
+- 🔭 I’m currently working on [whyline4java](https://github.com/Jordantan1999/whyline4java)
 
 - 🌱 I’m currently learning **Java Spring Framework**
 
