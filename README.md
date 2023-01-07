@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java**
 
-- ⚡ Fun fact **I am the latest 90s kid**
+- ⚡ Fun fact **I love Java**
 
 <h3 align="left">Connect with me:</h3>
 <a href = "https://www.linkedin.com/in/tan-jun-wen-4a105b162/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
